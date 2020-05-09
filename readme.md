@@ -1,4 +1,3 @@
 Hello master branch ---- welcome to git
 
-
-checking for stash changes
+This is in master branch
